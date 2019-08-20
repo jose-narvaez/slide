@@ -5,4 +5,6 @@ This is a Haskell program implementing a genetic algorithm which computes the fa
 
 The function create_slide takes as input a starting and ending point, a list of x-values for the supporting points, the number of iterations, the size of the list of candidates, the number of candidates to be crossbred among each other, number of mutations, number of points to be mutated, an interval for y-values, and a seed for the random standard generator and returns the best slide which consist of an initial point with (x,y) coordinates, a final point, a list of supporting points and the total time of the slide.
 
+![](slide.png)
+
 
